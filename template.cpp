@@ -1,11 +1,15 @@
 /**
  * 
  * TODO: Standard Header
- * Name
- * Date
+ * Name:
+ * Date:
  * Program summary
  **/
 
+/**
+ * TODO: Includes
+ * Include any additional libraries
+ **/
 #include <iostream>
 #include <cassert>
 #include <string>
@@ -36,7 +40,7 @@ void run();
 
 /**
  * Main Function
- *  Don't touch this! use `run()` instead
+ * Don't touch this! use `run()` instead
  **/
 int main() {
   char t;
@@ -54,12 +58,12 @@ int main() {
  *  Call a test function for each of your functions
  **/
 void test() {
-  // TODO: write your point of entry code here.
+  // TODO: call your test functions here.
 }
 
 // Use this in place of a main function
-void run() {c
-  // TODO: call your test functions here.
+void run() {
+  // TODO: write your point of entry code here.
 }
 
 /**
