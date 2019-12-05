@@ -119,4 +119,3 @@ double AverageScore(vector<double> UserScores) {
 	return average;
 
  **/
-
